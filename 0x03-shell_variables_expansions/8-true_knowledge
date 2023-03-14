@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((TRUEKNOWNEDGE+=128))  
+echo $((TRUEKNOWLEDGE+=128))  
